@@ -1,0 +1,39 @@
+#feat { 
+    background-color: rgba(255, 174, 174, 0.726);
+    padding: 20px;
+}
+
+
+img {
+    width: 20%;
+    float: right;
+
+}
+
+table {
+    border-collapse: collapse;
+    padding: 2px;
+}
+
+td {
+    border: 3px solid black;
+    padding: 10px 8px;
+}
+
+th {
+    border: 3px solid black;
+    padding: 8px 6px;
+}
+ h3{
+    color: darkred;
+    font-size: larger;
+ }
+h1 {
+    background-color: bisque;
+    padding: 3px;
+}
+main {
+    background-color: burlywood;
+    padding: 10px;
+
+}
